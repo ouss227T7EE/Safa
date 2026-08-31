@@ -93,7 +93,7 @@ To compile the project for Apple environments:
 ---
 **AI-Assisted Development**
 
-*AI tools were used as development assistance during implementation. The concept, requirements, system design, feature selection, testing, and final integration were directed and evaluated by me.*
+AI tools were used as development assistance during implementation. The concept, requirements, system design, feature selection, testing, and final integration were directed and evaluated by me
 ---
 
 ## <img src="https://api.iconify.design/octicon/law-24.svg?color=%2358a6ff" width="22" height="22" alt="License Icon"> License
