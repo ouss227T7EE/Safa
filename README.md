@@ -92,6 +92,7 @@ To compile the project for Apple environments:
 
 ---
 **AI-Assisted Development**
+
 *AI tools were used as development assistance during implementation. The concept, requirements, system design, feature selection, testing, and final integration were directed and evaluated by me.*
 ---
 
