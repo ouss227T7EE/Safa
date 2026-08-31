@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <defs>
+    <radialGradient id="bgGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#14B8A6" stop-opacity="0.25" />
+      <stop offset="100%" stop-color="#070B12" stop-opacity="1" />
+    </radialGradient>
+    <linearGradient id="ringGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF" />
+      <stop offset="50%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="coreGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#2DD4BF" />
+      <stop offset="100%" stop-color="#0D9488" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="192" height="192" rx="44" fill="#070B12" />
+  <rect width="192" height="192" rx="44" fill="url(#bgGlow)" />
+  <rect x="2" y="2" width="188" height="188" rx="42" fill="none" stroke="#1E2D4A" stroke-width="2" />
+
+  <!-- Outer Cognitive Orbit -->
+  <circle cx="96" cy="96" r="62" stroke="url(#ringGrad)" stroke-width="5" stroke-dasharray="32 12 16 12" fill="none" />
+
+  <!-- Inner Attentional Rings -->
+  <circle cx="96" cy="96" r="42" stroke="#38BDF8" stroke-width="2.5" stroke-dasharray="6 6" fill="none" opacity="0.8" />
+  <circle cx="96" cy="96" r="26" stroke="#2DD4BF" stroke-width="2" fill="none" opacity="0.9" />
+
+  <!-- Core Focus Center -->
+  <circle cx="96" cy="96" r="16" fill="url(#coreGrad)" />
+  <circle cx="96" cy="96" r="6" fill="#FFFFFF" />
+
+  <!-- Radiating Cardinal Alignment Marks -->
+  <line x1="96" y1="20" x2="96" y2="30" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" />
+  <line x1="96" y1="162" x2="96" y2="172" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" />
+  <line x1="20" y1="96" x2="30" y2="96" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" />
+  <line x1="162" y1="96" x2="172" y2="96" stroke="#2DD4BF" stroke-width="3" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,6 @@
+{
+  "name": "صفا — Safa",
+  "description": "An offline-first cognitive restoration & digital detox engine with SART attention measurement, Minimax AI Chess, and clinical cognitive games.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
