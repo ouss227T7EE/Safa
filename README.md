@@ -50,7 +50,7 @@ Before downloading or building the project from the source, ensure you have the 
 ### 1. Web Version (Development Mode)
 To run the engine strictly as a web application via the terminal:
 
-    git clone <YOUR_REPOSITORY_URL>
+    git clone https://github.com/ouss227T7EE/Safa.git
     cd Safa
     npm install
     npm run dev
