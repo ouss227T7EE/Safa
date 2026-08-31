@@ -83,6 +83,18 @@ To compile the project for Apple environments:
 *Showcasing proficiency in decision-tree logic, client-side state management, cognitive psychology integrations, and cross-platform architecture.*
 
 ---
+**My Contribution**
+*Designed the original project concept and user experience*
+*Defined the application's requirements and workflow*
+*Planned the system structure and features*
+*Directed the AI-assisted development process*
+*Tested, evaluated, and refined the final application*
+
+---
+**AI-Assisted Development**
+*AI tools were used as development assistance during implementation. The concept, requirements, system design, feature selection, testing, and final integration were directed and evaluated by me.*
+---
 
 ## <img src="https://api.iconify.design/octicon/law-24.svg?color=%2358a6ff" width="22" height="22" alt="License Icon"> License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the software, provided that proper credit is maintained. See the LICENSE file for more details.
+
