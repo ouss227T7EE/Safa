@@ -1,18 +1,18 @@
-# <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/cpu-24.svg" width="28" height="28" alt="Project Icon" align="center"> Safa (◎) — Cognitive Restoration & Digital Detox Engine
+# <img src="https://api.iconify.design/octicon/cpu-24.svg?color=%2358a6ff" width="28" height="28" alt="Project Icon" align="center"> Safa (◎) — Cognitive Restoration & Digital Detox Engine
 
 ![Offline First](https://img.shields.io/badge/Architecture-Offline_First-success?style=for-the-badge)
 ![PWA Ready](https://img.shields.io/badge/PWA-Ready-blue?style=for-the-badge)
 ![Vite](https://img.shields.io/badge/Bundler-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Cross Platform](https://img.shields.io/badge/Platform-Win_%7C_Mac_%7C_Linux-lightgrey?style=for-the-badge)
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/book-24.svg" width="22" height="22" alt="Context Icon"> The Psychological & Economic Context
+## <img src="https://api.iconify.design/octicon/book-24.svg?color=%2358a6ff" width="22" height="22" alt="Context Icon"> The Psychological & Economic Context
 The modern "attention economy" is driven by short-form content designed for immediate gratification. Emerging research highlights that this continuous consumption leads to measurable declines in working memory, sustained attention, and impulse control—creating cognitive deficits that impact both individual productivity and broader economic capital. 
 
 **Safa** is a standalone, cross-platform engine designed to counter this. Based on a 14-day digital detox protocol published in *PNAS Nexus*, this software provides clinical-grade psychological testing to establish a baseline focus score, encouraging users to gradually reduce screen time and empirically measure their cognitive recovery.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/server-24.svg" width="22" height="22" alt="Architecture Icon"> Technical Architecture
+## <img src="https://api.iconify.design/octicon/server-24.svg?color=%2358a6ff" width="22" height="22" alt="Architecture Icon"> Technical Architecture
 Safa is engineered to function entirely independent of external servers, ensuring 100% data privacy and offline accessibility across all platforms.
 
 * **Frontend Environment:** Built with Vanilla JavaScript and TypeScript definitions, bundled via Vite.
@@ -23,7 +23,7 @@ Safa is engineered to function entirely independent of external servers, ensurin
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/beaker-24.svg" width="22" height="22" alt="Science Icon"> Scientific Paradigms Implemented
+## <img src="https://api.iconify.design/octicon/beaker-24.svg?color=%2358a6ff" width="22" height="22" alt="Science Icon"> Scientific Paradigms Implemented
 1. **SART (Sustained Attention to Response Task):** Measures moment-to-moment "attention lapses" by calculating commission errors, omission errors, and reaction time variability.
 2. **N-Back Task (Working Memory):** A continuous performance task measuring fluid intelligence.
 3. **Stroop Effect Test (Cognitive Control):** Analyzes reaction time interference during semantic processing tasks.
@@ -31,21 +31,21 @@ Safa is engineered to function entirely independent of external servers, ensurin
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/graph-24.svg" width="22" height="22" alt="Data Icon"> Data Correlation Engine
+## <img src="https://api.iconify.design/octicon/graph-24.svg?color=%2358a6ff" width="22" height="22" alt="Data Icon"> Data Correlation Engine
 Safa goes beyond standard measurement by correlating user behavior with cognitive output. The built-in Analytics & Correlation Engine continuously cross-references the user's self-reported daily screen time against their active SART scores. 
 
 By applying localized statistical analysis, the engine provides mathematical insights directly to the dashboard, merging behavioral economics with software engineering.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/check-circle-24.svg" width="22" height="22" alt="Prerequisites Icon"> Prerequisites
+## <img src="https://api.iconify.design/octicon/check-circle-24.svg?color=%2358a6ff" width="22" height="22" alt="Prerequisites Icon"> Prerequisites
 Before downloading or building the project from the source, ensure you have the following installed on your system:
 * **Git:** For cloning the repository.
 * **Node.js:** (Version 16.0.0 or higher) - Includes npm required for package management and building the desktop apps.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/download-24.svg" width="22" height="22" alt="Download Icon"> Cross-Platform Installation & Downloads
+## <img src="https://api.iconify.design/octicon/download-24.svg?color=%2358a6ff" width="22" height="22" alt="Download Icon"> Cross-Platform Installation & Downloads
 
 ### 1. Web Version (Development Mode)
 To run the engine strictly as a web application via the terminal:
@@ -78,11 +78,11 @@ To compile the project for Apple environments:
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/person-24.svg" width="22" height="22" alt="Author Icon"> Author
+## <img src="https://api.iconify.design/octicon/person-24.svg?color=%2358a6ff" width="22" height="22" alt="Author Icon"> Author
 **Independent Researcher & Software Engineer**  
 *Showcasing proficiency in decision-tree logic, client-side state management, cognitive psychology integrations, and cross-platform architecture.*
 
 ---
 
-## <img src="https://raw.githubusercontent.com/primer/octicons/master/icons/law-24.svg" width="22" height="22" alt="License Icon"> License
+## <img src="https://api.iconify.design/octicon/law-24.svg?color=%2358a6ff" width="22" height="22" alt="License Icon"> License
 This project is licensed under the **MIT License**. You are free to use, modify, and distribute the software, provided that proper credit is maintained. See the LICENSE file for more details.
